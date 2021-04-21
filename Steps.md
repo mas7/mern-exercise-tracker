@@ -1,3 +1,5 @@
 - Created the express server and started it
 - Connect to MongoDB Atlas
-- Creating user model schema
+- Creating user model schema & exercise
+- Will create api end point so we can make CRUD operations
+- Created the Create and Read api end points routes for users and exercise
