@@ -1,1 +1,3 @@
 - Created the express server and started it
+- Connect to MongoDB Atlas
+- Creating user model schema
